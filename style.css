@@ -106,4 +106,7 @@ nav li{
     height: 300px;
     width: 80%;
   } 
+    .navbar-brand{
+    margin-left: 0;
+  }
 }
